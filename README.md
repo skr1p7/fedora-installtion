@@ -95,4 +95,16 @@ Click on the *Done* button and follow the steps as prompted in the Wizard which 
 
 ![fresh](img/final.png)
 
+### About my machine in Fedora
+
+![about](img/about.png)
+
+### Mozilla Firefox browser in Fedora
+
+![browser](img/browser.png)
+
+### File explorer in Fedora
+
+![file_exp](img/explorer.png)
+
 # Thanks!  
